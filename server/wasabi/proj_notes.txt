@@ -1,0 +1,41 @@
+-- installing ef core -- ORM (object relational mapper)
+>dotnet add package Microsoft.EntityFrameworkCore.SqlServer
+
+-- json.net
+>dotnet add package Newtonsoft.Json
+
+
+-- authentication
+-- process of checking if a user is valid 
+
+-- authorization
+-- process of ckecking if the user has permission
+
+
+-- asp.net core identity entity framework core
+>dotnet add package Microsoft.AspNetCore.Identity.EntityFrameworkCore 
+
+--
+> dotnet tool install --global dotnet-ef
+
+--
+> dotnet add package Microsoft.AspNetCore.Authentication.JwtBearer
+
+--
+> dotnet add package BCrypt.Net-Next
+
+
+SQL SERVER 
+----------
+
+create table [dbo].[users](
+	[Id] [int] NOT NULL,
+	[FirstName] [varchar](250) NULL,
+	[LastName] [varchar](250) NULL,
+	[Email] [varchar](300) NULL,
+	[About] [varchar](400) NULL,
+	[password] [varchar](max) NULL,
+	[JoinDate] [datetime] NULL);
+
+
+create table Fls (FileId int, FileName	varchar(200), FileType varchar(200), Filedt varbinary(max)); 

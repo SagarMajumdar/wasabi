@@ -1,0 +1,15 @@
+C:\Users\sagar\Desktop\wasabi\client\obj\Debug\net6.0\client.csproj.AssemblyReference.cache
+C:\Users\sagar\Desktop\wasabi\client\obj\Debug\net6.0\client.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sagar\Desktop\wasabi\client\obj\Debug\net6.0\client.AssemblyInfoInputs.cache
+C:\Users\sagar\Desktop\wasabi\client\obj\Debug\net6.0\client.AssemblyInfo.cs
+C:\Users\sagar\Desktop\wasabi\client\obj\Debug\net6.0\client.csproj.CoreCompileInputs.cache
+C:\Users\sagar\Desktop\wasabi\client\bin\Debug\net6.0\client.exe
+C:\Users\sagar\Desktop\wasabi\client\bin\Debug\net6.0\client.deps.json
+C:\Users\sagar\Desktop\wasabi\client\bin\Debug\net6.0\client.runtimeconfig.json
+C:\Users\sagar\Desktop\wasabi\client\bin\Debug\net6.0\client.dll
+C:\Users\sagar\Desktop\wasabi\client\bin\Debug\net6.0\ref\client.dll
+C:\Users\sagar\Desktop\wasabi\client\bin\Debug\net6.0\client.pdb
+C:\Users\sagar\Desktop\wasabi\client\obj\Debug\net6.0\client.dll
+C:\Users\sagar\Desktop\wasabi\client\obj\Debug\net6.0\ref\client.dll
+C:\Users\sagar\Desktop\wasabi\client\obj\Debug\net6.0\client.pdb
+C:\Users\sagar\Desktop\wasabi\client\obj\Debug\net6.0\client.genruntimeconfig.cache
